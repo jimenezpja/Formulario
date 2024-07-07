@@ -7,7 +7,6 @@ const expresiones = {
   Contraseña: /^.[0-9a-zA-ZÀ-ÿ\S.]{7,20}$/,
 	Telefono: /^\d{11,20}$/,
   Pasaporte: /^[V|E][0-9]{5,9}$/
-
 }
 const campos ={
   Nombre:false,
